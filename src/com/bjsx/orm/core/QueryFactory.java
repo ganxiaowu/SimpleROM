@@ -5,7 +5,7 @@ package com.bjsx.orm.core;
  * Created by Administrator on 2018/10/8.
  */
 public class QueryFactory {
-    //克隆模式 初始化创建
+    //克隆模式 初始化创建 修改
     private static Query prototypeObj;
     static {
         try {
